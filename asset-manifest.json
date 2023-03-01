@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/portofolio-reactjs/static/css/main.a436da68.css",
-    "main.js": "/portofolio-reactjs/static/js/main.58d3a19f.js",
+    "main.css": "/portofolio-reactjs/static/css/main.76dd97ad.css",
+    "main.js": "/portofolio-reactjs/static/js/main.aa218cbe.js",
     "static/js/787.b7af92ad.chunk.js": "/portofolio-reactjs/static/js/787.b7af92ad.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/portofolio-reactjs/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/circle.png": "/portofolio-reactjs/static/media/circle.da09ba8e15638814849b.png",
     "static/media/profile.png": "/portofolio-reactjs/static/media/profile.9f61592e68c51d77bf46.png",
+    "static/media/Futura-Medium-bt.ttf": "/portofolio-reactjs/static/media/Futura-Medium-bt.4e762c29ef7b44ca51cb.ttf",
     "static/media/social.PNG": "/portofolio-reactjs/static/media/social.fa510a888ca0943d2f94.PNG",
     "index.html": "/portofolio-reactjs/index.html",
-    "main.a436da68.css.map": "/portofolio-reactjs/static/css/main.a436da68.css.map",
-    "main.58d3a19f.js.map": "/portofolio-reactjs/static/js/main.58d3a19f.js.map",
+    "main.76dd97ad.css.map": "/portofolio-reactjs/static/css/main.76dd97ad.css.map",
+    "main.aa218cbe.js.map": "/portofolio-reactjs/static/js/main.aa218cbe.js.map",
     "787.b7af92ad.chunk.js.map": "/portofolio-reactjs/static/js/787.b7af92ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a436da68.css",
-    "static/js/main.58d3a19f.js"
+    "static/css/main.76dd97ad.css",
+    "static/js/main.aa218cbe.js"
   ]
 }
